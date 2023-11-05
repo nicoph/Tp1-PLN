@@ -21,13 +21,13 @@ Con el bot corriendo se puede entablar una coneccion mediante su nombre
 @TUIA_PNL_BOT
 
 El bot dispone de una serie de comandos:
-/start : mensaje bienvenida
-/about : datos acerca del bot
-/resumen: presenta las opciones via teclado para elegir la categoria de la cual se desea tener el resumen de noticias
-/ia,/cyc,/medicina/,/pc: listan las noticias de la categoria, mandando el nro de la noticias nos da el cuerpo de la misma
+- /start : mensaje bienvenida
+- /about : datos acerca del bot
+- /resumen: presenta las opciones via teclado para elegir la categoria de la cual se desea tener el resumen de noticias
+- /ia,/cyc,/medicina/,/pc: listan las noticias de la categoria, mandando el nro de la noticias nos da el cuerpo de la misma
 
 
 Integrantes:
-Di Marco, Nicolas
-Escandell, Ariel
-Raffaeli, Taiel
+- Di Marco, Nicolas
+- Escandell, Ariel
+- Raffaeli, Taiel
